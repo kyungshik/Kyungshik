@@ -10,4 +10,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=40&pause=1000&color=798AE2&center=true&vCenter=true&random=false&width=500&height=80&lines=%EC%9D%B4%EB%A6%84%3A+%EC%84%B1+%EA%B2%BD+%EC%8B%9D;Name%3A+Kyungshik+Seong" alt="Typing SVG" /></a>
 </div>
 
-[![Kyungshik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyungshik)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kyungshik" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kyungshik&layout=compact&langs_count=8&card_width=320" />
+</a>
